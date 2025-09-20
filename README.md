@@ -1,13 +1,13 @@
 # InterviewMentor-AI
-InterviewMentor AI is an intelligent mock interview assistant designed for Computer Science and technical job preparation.
-It not only asks interview-style questions but also:
+InterviewMentor AI is an intelligent mock interview assistant built with Python, NLP, Speech Recognition, and Machine Learning.
+It helps job seekers in the technical field prepare for interviews by:
 
-🎤 Takes answers via voice and converts them to text
+Asking real technical + HR interview questions
 
-✅ Evaluates content by comparing with ideal answers from trusted sources
+Listening to your spoken answers 🎙️
 
-⚠️ Detects filler words (like umm, actually, basically) to check communication clarity
+Comparing them with ideal answers from online sources 🌐
 
-📊 Gives real-time feedback & scores on each answer
+Giving you feedback on content, confidence, and filler words
 
-💡 Highlights weak areas and guides you on how to improve for future interviews
+Highlighting your weak areas for targeted improvement
